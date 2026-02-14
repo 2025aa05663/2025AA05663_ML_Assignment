@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+xgboost
+xlrd==2.0.1
