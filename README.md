@@ -6,13 +6,17 @@ A Streamlit web application is also deployed to allow:
 - uploading a test dataset (CSV file)
 - selecting a trained model
 - viewing predictions and evaluation metrics
+- 
+## Streamlit App (Live Demo)
+
+https://2025aa05663mlassignment-klxjekmfa78grewjvovdje.streamlit.app
 
 ## Dataset Used
 
 **UCI Default of Credit Card Clients Dataset**
 
 - Rows: 30,000  
-- Target column: "targe"  
+- Target column: "target"  
   - 0 → Not Default  
   - 1 → Default
 
@@ -55,3 +59,19 @@ ML_Assignment_2/
     ├── naive_bayes.pkl
     ├── random_forest.pkl
     └── xgboost.pkl
+
+## How to Run Locally
+
+1. Clone this repository:
+
+git clone <YOUR_GITHUB_REPO_URL>
+cd <YOUR_REPO_FOLDER_NAME>
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the Streamlit app:
+streamlit run app.py
+
+4. Open the link shown in terminal
+
