@@ -64,8 +64,8 @@ ML_Assignment_2/
 
 1. Clone this repository:
 
-git clone <YOUR_GITHUB_REPO_URL>
-cd <YOUR_REPO_FOLDER_NAME>
+git clone https://github.com/2025aa05663/2025AA05663_ML_Assignment.git
+cd 2025AA05663_ML_Assignment
 
 2. Install dependencies:
 pip install -r requirements.txt
