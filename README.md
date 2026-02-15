@@ -14,7 +14,7 @@ https://2025aa05663mlassignment-klxjekmfa78grewjvovdje.streamlit.app
 **UCI Default of Credit Card Clients Dataset**
 
 - Rows: 30,000  
-- Target column: "target"  
+- Target column: "target"  (The original target column was renamed to target for simplicity.)
   - 0 → Not Default  
   - 1 → Default
 
