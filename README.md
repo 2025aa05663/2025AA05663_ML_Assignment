@@ -59,3 +59,11 @@ The following ML models were trained and evaluated:
 3. Naive Bayes achieved the highest recall, making it suitable if catching defaulters is the    main objective.
 4. Decision Tree performed worst and is not recommended as a final model.
 
+## Sample Test Files
+
+Two sample test CSV files are provided inside the `sample_data/` folder:
+
+- `test_with_target.csv` → includes `target` column (shows evaluation metrics + confusion matrix)
+- `test_without_target.csv` → does not include `target` column (only predictions)
+
+These files can also be downloaded directly from the Streamlit app.
